@@ -1,6 +1,6 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/amueller/introduction_to_ml_with_python/master)
-
-# Introduction to Machine Learning with Python
+[ ! [活页夹] (https://mybinder.org/badge.svg) ] (https://mybinder.org/v2/gh/amueller/introduction_to_ml_with_python/master)
+# Python机器学习基础教程书籍配套代码
+# Python 机器学习简介 
 
 This repository holds the code for the forthcoming book "Introduction to Machine
 Learning with Python" by [Andreas Mueller](http://amueller.io) and [Sarah Guido](https://twitter.com/sarah_guido).
